@@ -128,13 +128,10 @@ The answer is 33.49
 
 2. If the diameter of a sphere is 12, what is the volume? Remember, the DIAMETER is being given. Not the radius. To calculate the volume of the sphere I need the radius. That means I need to divide the diameter by 2.
 
-
 $$
 radius = diameter / 2
-\newline
 radius = 12 /2 = 6
-\newline
-\newline
 volume=\cfrac{4 * 6 * 6 * 6 * \pi } { 3}
 $$
+
 The answer is 904.32.
