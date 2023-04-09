@@ -17,6 +17,8 @@ The volume is 102 because 17 multiplied by 3 multiplied by 2 is 102.
 
 Knowing that the volume is 320 and the height is 10 and the length is twice the base, what is the length and base? 
 1. Write out an equation with the numbers you have.
+
+
 $$
 Volume=Base * Height * Length\\
 320=10 * b * l\\
