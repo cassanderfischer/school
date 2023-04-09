@@ -19,15 +19,15 @@ Knowing that the volume is 320 and the height is 10 and the length is twice the 
 1. Write out an equation with the numbers you have.
 $$
 Volume=Base * Height * Length\\
-   320=10 * b * l\\
-   32=b * l\\
-   l = b * 2 = 2b\\
-   32=b * 2b\\
-   32 = 2b^2\\
-   \cfrac{32}{2} = \cfrac{2b^2}{2}\\
-   16=b^2\\
-   \sqrt(16)=b
-   \\4=b
+320=10 * b * l\\
+32=b * l\\
+l = b * 2 = 2b\\
+32=b * 2b\\
+32 = 2b^2\\
+\cfrac{32}{2} = \cfrac{2b^2}{2}\\
+16=b^2\\
+\sqrt(16)=b
+\\4=b
 $$
 
 #### Exercise 3 - Working backward again
@@ -41,9 +41,9 @@ Find the height, base and length of the rectangular prism.
 $$
 volume=base * height * length\\
 volume = area * height\\
-   135=27 * h\\
-   \cfrac{135}{27}= h\\ 
-   h=5\\
+135=27 * h\\
+\cfrac{135}{27}= h\\ 
+h=5\\
 area = base * length\\
 27 = base * length\\
 27 = b * b^2\\
