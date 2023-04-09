@@ -28,8 +28,8 @@ l = b * 2 = 2b\\
 32 = 2b^2\\
 \cfrac{32}{2} = \cfrac{2b^2}{2}\\
 16=b^2\\
-\sqrt(16)=b
-\\4=b
+\sqrt(16)=b\\
+4=b
 $$
 
 #### Exercise 3 - Working backward again
