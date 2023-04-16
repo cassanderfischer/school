@@ -5,7 +5,9 @@
 ### Volume
 
 ![rp](images/rp.drawio.png)
-The volume of a rectangular prism is the base * height * length. Or the area of base multiplied by the height. The area of the base is the length multiplied by the base, but in the end your just multiplying the length, base, and the height.
+The volume of a rectangular prism is the base * height * length or, the area of base multiplied by the height. 
+
+The area of the base is the length multiplied by the base, but in the end your just multiplying the length, base, and the height.
 
 ### Exercises
 
@@ -112,7 +114,7 @@ $37.5 = r^2 * 3.14$
 
  $11.94 = r^2$
 
- -  . All thats left is the new volume and the unknown radius. In order to get the radius you need to find the root of it. Remember, you are multiplying the radius twice, that is why you need to find the root. Use a calculator for this part. Root looks like this, 
+ -  All that's left is the new volume and the unknown radius. In order to get the radius you need to find the root of it. Remember, you are multiplying the radius twice, that is why you need to find the root. Use a calculator for this part. Root looks like this, 
   $\sqrt{\smash[b]{r^2}}$
 
 - The calculator now gives you the value of r.
