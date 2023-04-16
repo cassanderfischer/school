@@ -20,6 +20,7 @@ Knowing that the volume is 320 and the height is 10 and the length is twice the 
 
 
 $Volume=Base * Height * Length$
+
 $320=10 * b * l$
 
 $32=b * l$
@@ -46,20 +47,31 @@ Knowing that:
 - the length is the square number of the base
 
 Find the height, base and length of the rectangular prism.
+
 $$
-volume=base * height * length\\
-volume = area * height\\
-135=27 * h\\
-\cfrac{135}{27}= h\\ 
-h=5\\
-area = base * length\\
-27 = base * length\\
-27 = b * b^2\\
-27 = b^3\\
-b = 3\\
-27 = 3 * l\\
-l = 9\\
+volume=base * height * length
+
+volume = area * height
 $$
+$135=27 * h$
+
+$\cfrac{135}{27}= h$ 
+
+$h=5$
+
+$area = base * length$
+
+$27 = base * length$
+
+$27 = b * b^2$
+
+$27 = b^3$
+
+$b = 3$
+
+$27 = 3 * l$
+
+$l = 9$
 
 The height equals 5, the base equals 3, and the length equals 9. 
 
