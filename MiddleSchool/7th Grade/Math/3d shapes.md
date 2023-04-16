@@ -20,12 +20,11 @@ Knowing that the volume is 320 and the height is 10 and the length is twice the 
 
 
 $Volume=Base * Height * Length$
-
 $320=10 * b * l$
 
 $32=b * l$
 
-$l = b * 2 = 2b//$
+$l = b * 2 = 2b$
 
 $32=b * 2b$
 
