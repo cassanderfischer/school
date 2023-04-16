@@ -20,14 +20,23 @@ Knowing that the volume is 320 and the height is 10 and the length is twice the 
 
 
 $Volume=Base * Height * Length$
+
 $320=10 * b * l$
+
 $32=b * l$
+
 $l = b * 2 = 2b$
+
 $32=b * 2b$
+
 $32 = 2b^2$
+
 $\cfrac{32}{2} = \cfrac{2b^2}{2}$
+
 $16=b^2$
+
 $\sqrt(16)=b$
+
 $4=b$
 
 #### Exercise 3 - Working backward again
