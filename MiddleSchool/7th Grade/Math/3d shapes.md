@@ -48,11 +48,10 @@ Knowing that:
 
 Find the height, base and length of the rectangular prism.
 
-$$
-volume=base * height * length
+$volume=base * height * length$
 
-volume = area * height
-$$
+$volume = area * height$
+
 $135=27 * h$
 
 $\cfrac{135}{27}= h$ 
@@ -132,24 +131,21 @@ The answer is that the volume of the cylinder is 28*3=84
 
 The formula of a sphere is 4 multiplied by pi, multiplied by radius to the power of 3, divided by 3. A sphere looks like the shape below.
 ![sphere](images/sphere.drawio.png)
-$$
-volume=\cfrac{4* r* r * r * \pi } { 3}
-$$
+$volume=\cfrac{4* r* r * r * \pi } { 3}$
 
 ### Exercises
 
 1. Knowing that a sphere has the radius of 2, what is the volume? 
-$$
-volume=\cfrac{4 * 2 * 2 * 2 * \pi } { 3}
-$$
+
+$volume=\cfrac{4 * 2 * 2 * 2 * \pi } { 3}$
 The answer is 33.49
 
 2. If the diameter of a sphere is 12, what is the volume? Remember, the DIAMETER is being given. Not the radius. To calculate the volume of the sphere I need the radius. That means I need to divide the diameter by 2.
 
-$$
-radius = diameter / 2
-radius = 12 /2 = 6
-volume=\cfrac{4 * 6 * 6 * 6 * \pi } { 3}
-$$
+$radius = diameter / 2$
+
+$radius = 12 /2 = 6$
+
+$volume=\cfrac{4 * 6 * 6 * 6 * \pi } { 3}$
 
 The answer is 904.32.
