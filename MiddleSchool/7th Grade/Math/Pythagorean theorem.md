@@ -1,6 +1,6 @@
 # Pythagorean theorem
 
-The formula for the Pythagorean theorem is A squared, plus B squared, equals C squared.
+The formula for the Pythagorean theorem is $${A^2 + B^2 = C^2}$$.
 
 ![Pythagorean Theorem](images/Pythagorean%20theorem.drawio.png)
 
